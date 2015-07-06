@@ -1,0 +1,5 @@
+    Dim A As Integer
+        Dim B As Integer
+        Dim KQ As String
+
+        lblKQ.Text = Val(txtA.Text) / (txtB.Text)
