@@ -1,0 +1,9 @@
+# Phep-Chia
+'Khai báo biến
+    dim a as Interger
+    dim b as Interger
+    dim resul as string
+' Nhập kết quả cho boton
+    lblResul = Val(txtA.text) + Val(txtB.text)
+  End Sub
+End Class
